@@ -6,16 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: borker.co
+email: ryan@borker.co
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ryan Borker lives in the space between human judgment and technology. He comes up with products designed to focus time and attention
+  on what's important, rather than distractions. Professionally, he founded Shortlist -- a breakthrough approach to executive recruiting.
+  In his spare time you'll find him running, writing, taking pictures, or trying out new tea.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://borker.com" # the base hostname & protocol for your site
+twitter_username: borker
+github_username:  ryanyde
 
 # Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
 markdown: kramdown
