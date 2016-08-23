@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Projects
+  url: /projects
+
+- title: About
+  url: /about
+
+- title: Writing
+  url: /writing
+
+- title: Thoughts
+  url: /thoughts
+
+- title: Design
+  url: /design

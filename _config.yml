@@ -1,24 +1,69 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site
+title:          Borker dot co
+bio:            'product, design, and business'
+description:    "A simple portfolio with writings."
+picture:        'assets/img/Logo.png'
+locale:         en_US
+url:            http://borker.co
 
-# Site settings
-title: borker.co
-email: ryan@borker.co
-description: > # this means to ignore newlines until "baseurl:"
-  Ryan Borker lives in the space between human judgment and technology. He comes up with products designed to focus time and attention
-  on what's important, rather than distractions. Professionally, he founded Shortlist -- a breakthrough approach to executive recruiting.
-  In his spare time you'll find him running, writing, taking pictures, or trying out new tea.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://borker.com" # the base hostname & protocol for your site
-twitter_username: borker
-github_username:  ryanyde
-
-# Build settings
+# Jekyll
+permalink:      /:title/
+markdown:       kramdown
+highlighter:    rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 sass:
   sass_dir: _sass
-include: ['_pages']
-markdown: kramdown
+  style: compressed
+
+# Social
+# if you don't have any of social below, comment the line.
+email: ryan@borker.co
+twitter: borker
+#facebook: username
+#google:
+  #plus: #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#github: username
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: borker
+#xing: username
+instagram: borkest
+#lastfm: username
+#tumblr: username
+#pinterest: username
+#foursquare: username
+#steam: username
+#dribbble: username
+#youtube: username
+#soundcloud: username
+#weibo: username
+#flickr: username
+#codepen: username
+
+# Paginate
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
