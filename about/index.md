@@ -4,7 +4,7 @@ title: About Ryan
 tags: [about, Jekyll, theme, ramme]
 date: 2016-08-23
 ---
-![mustache]({{ site.url }}/{{ site.picture }}){: .selfie}
+![Mustache]({{ site.url }}/assets/img/mustache.jpg){: .selfie}
 
 Ryan writes, designs, and drinks tea in San Francisco. But he is originally and still considers himself a Texan.
 
