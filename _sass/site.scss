@@ -45,9 +45,9 @@ body {
 .wrapper {
 	width: 50%;
 	height: auto;
-	border: 1px solid $color_1;
+	border: 3px solid $color_1;
 	background: $color_2;
-	margin: 0.95em 0 0.95em 0;
+	margin: 1.25em 0 1.25em 0;
 	position: relative;
 	display: block;
 	margin-right: auto;
@@ -60,11 +60,11 @@ body {
 	}
 }
 .article {
-	padding: 0.625em 5em 1.25em;
+	padding: 0.825em 5em 1.25em;
 	font-size: 0.85em;
 }
 .post-list {
-	padding: 0.625em 5em 1.25em;
+	padding: 0.825em 5em 1.25em;
 	font-size: 0.85em;
 	ul {
 		list-style-type: none;
@@ -180,7 +180,7 @@ body {
 		> .item {
 			display: inline-block;
 			font-weight: bold;
-			transition: all .5s;
+			transition: all .95s;
 			&:hover {
 				background-color: $color_1;
 			}
