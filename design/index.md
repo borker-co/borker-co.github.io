@@ -1,6 +1,6 @@
 ---
 layout: design
-title: Design Philosophy
+title: WIP list of case studies and design writing
 excerpt: "Ryan's Design Philosophy"
 ---
 
