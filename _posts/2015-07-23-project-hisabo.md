@@ -10,7 +10,7 @@ tag:
      
 ## Hisabo
      
-I founded and ran [Hisabo Tea Company](https://www.hisabo.com) for a few months as a side project.
+I founded and ran [Hisabo Tea Company](http://www.hisabo.com) for a few months as a side project.
 
 Through Hisabo, we sold hard to find or unique teas to a list of email subscribers (similar to Garagiste for wines). 
 
