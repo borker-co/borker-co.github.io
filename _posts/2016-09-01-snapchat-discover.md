@@ -115,7 +115,11 @@ The focus and deep attention provides some exciting possibilities for the platfo
 
 ### Footnotes
 [1 Snapchat Discover One Year Later: How 23 Media Companies Are Building Stories For Evan Spiegel](http://www.ibtimes.com/snapchat-discover-one-year-later-how-23-media-companies-are-building-stories-evan-2281851)
+
 [2 Three questions publishers have about Snapchat Discover](http://www.fipp.com/news/features/three-questions-publishers-have-about-snapchat-discover)
+
 [3] Ibid.
+
 [4 Snapchat's ad rates drop as brands find problems](http://www.cnbc.com/2016/02/18/snapchats-ad-rates-drop-as-brands-find-problems.html)
+
 [5 Snapchat Launches a Colossal Expansion of Its Advertising, Ushering in a New Era for the App](http://www.adweek.com/news/technology/snapchat-launches-colossal-expansion-its-advertising-ushering-new-era-app-171924)
