@@ -25,9 +25,9 @@ sass:
 email: ryan@borker.co
 twitter: borker
 #facebook: username
-#google:
+google:
   #plus: #username
-  #analytics:
+  analytics: UA-86377416-1
   #verify:
   #ad-client:
   #ad-slot:
