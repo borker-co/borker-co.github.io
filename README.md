@@ -1,4 +1,4 @@
-# Ramme Jekyll Theme
+# Modified from Ramme Jekyll Theme
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 

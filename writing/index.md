@@ -10,28 +10,49 @@ I write often, though not nearly as much as I should. In my spare time, you'll f
 
 ## [Quora](https://www.quora.com/profile/Ryan-Borker)
 
-I write on Quora from time to time. In part because it pays better than a lot of other writing. Some of the popular things I've written are about running and tech strategy. Highlights include:
+I write on Quora from time to time. In part because it pays better than a lot of other writing. Some of the popular things I've written are about running and tech strategy. 
 
-### [Should I complete a marathon without training?](https://www.quora.com/Is-it-possible-to-complete-a-marathon-without-training-for-it) 
-Hint: no.
+Some Professionally Relevant Highlights:
+
+### [What is a "product person"](https://www.quora.com/What-is-a-product-person)
+Not comprehensive, but a line in the sand from my personal experience.
+
+### [What tech company is going downhill?](https://www.quora.com/What-tech-company-is-going-downhill/answer/Ryan-Borker)
+Hint: WeWork, called well before late 2019 meltdown.
 
 ### [Why did Uber beat Lyft?](https://www.quora.com/Why-was-Uber-so-successful-vs-Lyft-Sidecar-etc)
 This one got published in Newsweek.
 
+### [How can we improve hiring diversity?](https://www.quora.com/What-are-specific-things-employers-can-do-today-to-build-more-diverse-technical-teams) 
+I've spent a lot of time thinking about this at Shortlist.
+
+### [How does Google Search work?](https://www.quora.com/How-does-Google-search-work-6/answer/Ryan-Borker)
+A simplified answer in layman's terms.
+
 ### [How will marketing change in the next 10 years](https://www.quora.com/How-is-marketing-going-to-evolve-over-the-next-ten-years-as-a-result-of-technological-innovation) 
 Speculating on the future of marketing.
+
+### [Why are all the big tech giants from America?](https://www.quora.com/Why-are-all-the-big-tech-giants-from-America)
+Hint: they're not, but America does have some unique qualities going for it.
+
+
+Some other popular answers in the personal realm:
+
+### [What screams "I am new to Silicon Valley"?](https://www.quora.com/What-screams-I-am-new-to-Silicon-Valley/answer/Ryan-Borker)
+Unfortunately for me, my only 10K+ upvoted answer.
+
+### [Should I complete a marathon without training?](https://www.quora.com/Is-it-possible-to-complete-a-marathon-without-training-for-it) 
+Hint: no.
 
 ### [Is the Lobster and indictment of our Tinder-driven dating culture?](https://www.quora.com/Is-The-Lobster-an-indictment-of-our-Tinder-driven-dating-culture) 
 I do pop culture too.
 
-### [How can we improve hiring diversity?](https://www.quora.com/What-are-specific-things-employers-can-do-today-to-build-more-diverse-technical-teams) 
-I've spent a lot of time thinking about this at Shortlist.
 
 
 
 ## [Medium](https:/www.medium.com/@borker)
 
-On Medium, I take a more speculative or reflective approach. Don't expect miracles.
+On Medium, I take a more speculative or reflective approach. Don't expect miracles. I, too, am merely a flawed human.
 
 
 ### [You're better off dead than on Facebook](https://medium.com/@borker/youre-better-off-dead-than-on-facebook-linkedin-or-twitter-d466806544d5) 

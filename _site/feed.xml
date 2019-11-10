@@ -1,8 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://borker.co/feed.xml" rel="self" type="application/atom+xml" /><link href="http://borker.co/" rel="alternate" type="text/html" /><updated>2017-11-23T22:28:45-07:00</updated><id>http://borker.co/</id><title>Borker dot co</title><subtitle>home to the thoughts, writing and design of Ryan Borker</subtitle><entry><title>Lacelook</title><link href="http://borker.co/project-lace/" rel="alternate" type="text/html" title="Lacelook" /><published>2016-09-01T00:00:00-07:00</published><updated>2016-09-01T00:00:00-07:00</updated><id>http://borker.co/project-lace</id><content type="html" xml:base="http://borker.co/project-lace/">&lt;h2 id=&quot;lace&quot;&gt;Lace&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-10T13:24:06-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Borker dot co</title><subtitle>home to the thoughts, writing and design of Ryan Borker</subtitle><entry><title type="html">‘People spend more time watching Netflix than reading, socializing and exercising - combined.’ Welcome to the Matrix</title><link href="http://localhost:4000/thought-4/" rel="alternate" type="text/html" title="'People spend more time watching Netflix than reading, socializing and exercising - combined.' Welcome to the Matrix" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/thought-4</id><content type="html" xml:base="http://localhost:4000/thought-4/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><author><name></name></author><category term="thought" /><summary type="html">food for thought</summary></entry><entry><title type="html">Shortlist</title><link href="http://localhost:4000/project-shortlist/" rel="alternate" type="text/html" title="Shortlist" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/project-shortlist</id><content type="html" xml:base="http://localhost:4000/project-shortlist/">&lt;h2 id=&quot;shortlist&quot;&gt;Shortlist&lt;/h2&gt;
 
-&lt;p&gt;I currently advise &lt;a href=&quot;http://www.lacelook.com/&quot;&gt;Lace&lt;/a&gt; on their product and business strategy.&lt;/p&gt;
+&lt;p&gt;I cofounded &lt;a href=&quot;https://www.joinshortlist.com&quot;&gt;Shortlist&lt;/a&gt; where I was the COO and Head of Product.&lt;/p&gt;
 
-&lt;p&gt;Lace helps fashion bloggers earn money by automatically tagging pictures they post on social media with similar clothing items they can by with affiliate links.&lt;/p&gt;</content><category term="Lace" /><summary>A note about my involvement with Lace</summary></entry><entry><title>What changes should Snapchat make to its Discover feature that would significantly increase the product’s relevance as a news source?</title><link href="http://borker.co/snapchat-discover/" rel="alternate" type="text/html" title="What changes should Snapchat make to its Discover feature that would significantly increase the product’s relevance as a news source?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/snapchat-discover</id><content type="html" xml:base="http://borker.co/snapchat-discover/">&lt;p&gt;Answer originally written on Quora, where it won a &lt;a href=&quot;https://www.quora.com/What-changes-should-Snapchat-make-to-its-Discover-feature-that-would-significantly-increase-the-product%E2%80%99s-relevance-as-a-news-source/answer/Ryan-Borker&quot;&gt;knowledge prize.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Top finance companies have (including 8 of the top 30 asset managers) used Shortlist to recruit outstanding individuals to their most senior roles. These roles would otherwise have gone to retained search.&lt;/p&gt;
+
+&lt;p&gt;The Shortlist platform achieved a number of industry firsts for a recruiting tech platform in asset management:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First to receive exclusivity on postings&lt;/li&gt;
+  &lt;li&gt;First to recruit at the senior level (C-suite, SVP, etc.)&lt;/li&gt;
+  &lt;li&gt;First vertical ‘curated’ network for senior level recruiting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;FundFire, an industry leading publication for asset management, &lt;a href=&quot;http://fundfire.com/c/1243123/138313/managers_dial_tech_scour_senior_talent&quot;&gt;profiled us here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Shortlist" /><summary type="html">A note about my involvement with Shortlist</summary></entry><entry><title type="html">Design isn’t better, it’s just cheaper</title><link href="http://localhost:4000/design-cheap/" rel="alternate" type="text/html" title="Design isn't better, it's just cheaper" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/design-cheap</id><content type="html" xml:base="http://localhost:4000/design-cheap/">&lt;figure&gt;
+	&lt;img src=&quot;http://borker.co/assets/img/design-cheap.jpeg&quot; /&gt;
+	&lt;figcaption&gt;Brought to you by cheap computing power and Adobe (tm)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I had a passing thought this morning: design has made it. We see an upsurge of visibly passionate digital designers, and an abundance designs that are, ostensibly, very good. Everyone’s stuff looks better, from furniture to webpages. Look at that crap they did in the 80s and 90s (and even early 2000s) with their software and their industrial lighting: how did they live with themselves?&lt;/p&gt;
+
+&lt;p&gt;It didn’t take me long to realize that I was, once again, fooled by my own perception.&lt;/p&gt;
+
+&lt;p&gt;We tend to pat ourselves on the back and think that we’ve had a ‘renaissance’ in design, that design is no longer considered an extra but vital to success.&lt;/p&gt;
+
+&lt;p&gt;“We, the powerful and vocal design community, brought this about!” we exclaim with glee. We believe we have vindicated the value of design.&lt;/p&gt;
+
+&lt;p&gt;If only it were true.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-is-cheap&quot;&gt;Design is Cheap&lt;/h2&gt;
+
+&lt;p&gt;My hypothesis ended up with realizing that design is now cheap. We’ve enabled a myriad of development, design and fabrication frameworks that allow us to create, develop, and implement fantastic designs at a fraction of the cost.&lt;/p&gt;
+
+&lt;p&gt;It’s a great disservice to any of the older designers to say that the ‘new’ generation is somehow better. I suspect industrial designers didn’t design those soulless corporate cafeterias because they wanted to destroy people’s lives. I suspect it was because other options were prohibitively expensive. Back then, 33 extra megahertz could soothe away any aesthetic issues with your PC; $5,000 office lights could make Philippe Starck the richest man on earth.&lt;/p&gt;
+
+&lt;p&gt;Corporate profit is higher than it ever has been before. Design is cheaper than it ever has been before. Occam’s razor, the simplest explanation is often correct.&lt;/p&gt;
+
+&lt;p&gt;As a result, everyone can now afford to look good, sit in good furniture, and have well designed apps.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Because of this economic affordability, design affordances can change for the better.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;so-what-now&quot;&gt;So what now?&lt;/h2&gt;
+
+&lt;p&gt;We can understand now why digital design is more important than ever. Apple nailed that into the collective consciousness. Due to them and due to the tireless effort from designers everywhere, we now live in a fantastic golden age of design.
+It’s our privilege to enjoy it, exploit it, and hopefully not screw it up.&lt;/p&gt;
+
+&lt;p&gt;However, let’s at least agree that it’s (mostly) not our fault.&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Still important, though</summary></entry><entry><title type="html">My Writing</title><link href="http://localhost:4000/my-writing/" rel="alternate" type="text/html" title="My Writing" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/my-writing</id><content type="html" xml:base="http://localhost:4000/my-writing/">&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
+
+&lt;p&gt;I write often, though not nearly as much as I should. In my spare time, you’ll find me answering questions on tech news / trends, imagining the future, exploring social issues, and, of course, chronicling design ideas I like and dislike. Check out the sections below to see some of my more ‘popular writing.’&lt;/p&gt;
+
+&lt;h2 id=&quot;quora&quot;&gt;&lt;a href=&quot;https://www.quora.com/profile/Ryan-Borker&quot;&gt;Quora&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I write on Quora from time to time. In part because it pays better than a lot of other writing. Some of the popular things I’ve written are about running and tech strategy. Highlights include:&lt;/p&gt;
+
+&lt;h3 id=&quot;should-i-complete-a-marathon-without-training&quot;&gt;&lt;a href=&quot;https://www.quora.com/Is-it-possible-to-complete-a-marathon-without-training-for-it&quot;&gt;Should I complete a marathon without training?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Hint: no.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-did-uber-beat-lyft&quot;&gt;&lt;a href=&quot;https://www.quora.com/Why-was-Uber-so-successful-vs-Lyft-Sidecar-etc&quot;&gt;Why did Uber beat Lyft?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This one got published in Newsweek.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-will-marketing-change-in-the-next-10-years&quot;&gt;&lt;a href=&quot;https://www.quora.com/How-is-marketing-going-to-evolve-over-the-next-ten-years-as-a-result-of-technological-innovation&quot;&gt;How will marketing change in the next 10 years&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Speculating on the future of marketing.&lt;/p&gt;
+
+&lt;h3 id=&quot;is-the-lobster-and-indictment-of-our-tinder-driven-dating-culture&quot;&gt;&lt;a href=&quot;https://www.quora.com/Is-The-Lobster-an-indictment-of-our-Tinder-driven-dating-culture&quot;&gt;Is the Lobster and indictment of our Tinder-driven dating culture?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I do pop culture too.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-we-improve-hiring-diversity&quot;&gt;&lt;a href=&quot;https://www.quora.com/What-are-specific-things-employers-can-do-today-to-build-more-diverse-technical-teams&quot;&gt;How can we improve hiring diversity?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I’ve spent a lot of time thinking about this at Shortlist.&lt;/p&gt;
+
+&lt;h2 id=&quot;medium&quot;&gt;&lt;a href=&quot;https:/www.medium.com/@borker&quot;&gt;Medium&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;On Medium, I take a more speculative or reflective approach. Don’t expect miracles.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-better-off-dead-than-on-facebook&quot;&gt;&lt;a href=&quot;https://medium.com/@borker/youre-better-off-dead-than-on-facebook-linkedin-or-twitter-d466806544d5&quot;&gt;You’re better off dead than on Facebook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I spend a lot of time thinking about how we spend our attention, and whether it’s intentional or not. Social media takes a huge share of our most precious resource.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-prepare-for-your-first-investor-meeting&quot;&gt;&lt;a href=&quot;https://medium.com/listen-to-my-story/checklist-how-to-prep-for-your-first-investor-meeting-c119c0fc74eb&quot;&gt;How to prepare for your first investor meeting&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Featured in Mattermark Daily.&lt;/p&gt;
+
+&lt;h3 id=&quot;is-the-weak-tie-dead&quot;&gt;&lt;a href=&quot;https://medium.com/@JoinShortlist/strong-ties-are-more-important-than-ever-bb2136d4dd1f&quot;&gt;Is the weak tie dead?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I think weak ties are overemphasized. We need to begin to reform strong ties.&lt;/p&gt;
+
+&lt;h3 id=&quot;can-anyone-stop-linkedin&quot;&gt;&lt;a href=&quot;https://medium.com/@JoinShortlist/can-anyone-stop-linkedin-hints-from-the-users-911cd653ec23&quot;&gt;Can anyone stop LinkedIn?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Written from Shortlist’s perspective, before the acquisition. I still believe this.&lt;/p&gt;</content><author><name></name></author><category term="writing" /><category term="quora" /><category term="medium" /><category term="updates" /><category term="jekyll" /><summary type="html">Read more about my writing.</summary></entry><entry><title type="html">What changes should Snapchat make to its Discover feature that would significantly increase the product’s relevance as a news source?</title><link href="http://localhost:4000/snapchat-discover/" rel="alternate" type="text/html" title="What changes should Snapchat make to its Discover feature that would significantly increase the product’s relevance as a news source?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/snapchat-discover</id><content type="html" xml:base="http://localhost:4000/snapchat-discover/">&lt;p&gt;Answer originally written on Quora, where it won a &lt;a href=&quot;https://www.quora.com/What-changes-should-Snapchat-make-to-its-Discover-feature-that-would-significantly-increase-the-product%E2%80%99s-relevance-as-a-news-source/answer/Ryan-Borker&quot;&gt;knowledge prize.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;theres-some-evidence-and-a-strong-hypothesis-that-snapchat-will-just-remove-the-discover-feature-however-some-ideas-for-keeping-the-discover-feature-relevant&quot;&gt;There’s some evidence and a strong hypothesis that Snapchat will just remove the Discover feature. However, some ideas for keeping the ‘Discover’ feature relevant:&lt;/h3&gt;
 
@@ -120,91 +200,7 @@ This will be hard due to the amount of content required, but there’s certainly
 
 &lt;p&gt;&lt;a href=&quot;http://www.cnbc.com/2016/02/18/snapchats-ad-rates-drop-as-brands-find-problems.html&quot;&gt;4 Snapchat’s ad rates drop as brands find problems&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.adweek.com/news/technology/snapchat-launches-colossal-expansion-its-advertising-ushering-new-era-app-171924&quot;&gt;5 Snapchat Launches a Colossal Expansion of Its Advertising, Ushering in a New Era for the App&lt;/a&gt;&lt;/p&gt;</content><category term="design" /><summary>Still important, though</summary></entry><entry><title>‘People spend more time watching Netflix than reading, socializing and exercising - combined.’ Welcome to the Matrix</title><link href="http://borker.co/thought-4/" rel="alternate" type="text/html" title="'People spend more time watching Netflix than reading, socializing and exercising - combined.' Welcome to the Matrix" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/thought-4</id><content type="html" xml:base="http://borker.co/thought-4/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><category term="thought" /><summary>food for thought</summary></entry><entry><title>Ever consider how most news articles now have tons of links, and you have no idea which are important or not?</title><link href="http://borker.co/thought-3/" rel="alternate" type="text/html" title="Ever consider how most news articles now have tons of links, and you have no idea which are important or not?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/thought-3</id><content type="html" xml:base="http://borker.co/thought-3/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><category term="thought" /><summary>food for thought</summary></entry><entry><title>No product plan survives contact with the user</title><link href="http://borker.co/thought-2/" rel="alternate" type="text/html" title="No product plan survives contact with the user" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/thought-2</id><content type="html" xml:base="http://borker.co/thought-2/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><category term="thought" /><summary>food for thought</summary></entry><entry><title>If you’re mean to people, do you end up bankrupt after a lawsuit with Hulk Hogan?</title><link href="http://borker.co/thought-1/" rel="alternate" type="text/html" title="If you're mean to people, do you end up bankrupt after a lawsuit with Hulk Hogan?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/thought-1</id><content type="html" xml:base="http://borker.co/thought-1/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><category term="thought" /><summary>food for thought</summary></entry><entry><title>Shortlist</title><link href="http://borker.co/project-shortlist/" rel="alternate" type="text/html" title="Shortlist" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/project-shortlist</id><content type="html" xml:base="http://borker.co/project-shortlist/">&lt;h2 id=&quot;shortlist&quot;&gt;Shortlist&lt;/h2&gt;
-
-&lt;p&gt;I cofounded &lt;a href=&quot;https://www.joinshortlist.com&quot;&gt;Shortlist&lt;/a&gt; where I am the COO and Head of Product.&lt;/p&gt;
-
-&lt;p&gt;Top finance companies have (including 7 of the top 30 asset managers) used Shortlist to recruit outstanding individuals to their most senior roles. These roles would otherwise have gone to retained search.&lt;/p&gt;
-
-&lt;p&gt;The Shortlist platform achieved a number of industry firsts: 
-- First to receive exclusivity on postings
-- First to recruit at the senior level (C-suite, SVP, etc.)
-- First vertical ‘curated’ network for senior level recruiting&lt;/p&gt;
-
-&lt;p&gt;FundFire, an industry leading publication for asset management, &lt;a href=&quot;http://fundfire.com/c/1243123/138313/managers_dial_tech_scour_senior_talent&quot;&gt;profiled us here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can find out more about Shortlist’s value to people who used it &lt;a href=&quot;https://joinshortlist.com/a/home/im/connector/about&quot;&gt;on the site&lt;/a&gt;, or you can learn more about the &lt;a href=&quot;https://joinshortlist.com/a/home/im/connector/platform&quot;&gt;platform itself&lt;/a&gt;.&lt;/p&gt;</content><category term="Shortlist" /><summary>A note about my involvement with Shortlist</summary></entry><entry><title>My Writing</title><link href="http://borker.co/my-writing/" rel="alternate" type="text/html" title="My Writing" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/my-writing</id><content type="html" xml:base="http://borker.co/my-writing/">&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
-
-&lt;p&gt;I write often, though not nearly as much as I should. In my spare time, you’ll find me answering questions on tech news / trends, imagining the future, exploring social issues, and, of course, chronicling design ideas I like and dislike. Check out the sections below to see some of my more ‘popular writing.’&lt;/p&gt;
-
-&lt;h2 id=&quot;quorahttpswwwquoracomprofileryan-borker&quot;&gt;&lt;a href=&quot;https://www.quora.com/profile/Ryan-Borker&quot;&gt;Quora&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;I write on Quora from time to time. In part because it pays better than a lot of other writing. Some of the popular things I’ve written are about running and tech strategy. Highlights include:&lt;/p&gt;
-
-&lt;h3 id=&quot;should-i-complete-a-marathon-without-traininghttpswwwquoracomis-it-possible-to-complete-a-marathon-without-training-for-it&quot;&gt;&lt;a href=&quot;https://www.quora.com/Is-it-possible-to-complete-a-marathon-without-training-for-it&quot;&gt;Should I complete a marathon without training?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Hint: no.&lt;/p&gt;
-
-&lt;h3 id=&quot;why-did-uber-beat-lyfthttpswwwquoracomwhy-was-uber-so-successful-vs-lyft-sidecar-etc&quot;&gt;&lt;a href=&quot;https://www.quora.com/Why-was-Uber-so-successful-vs-Lyft-Sidecar-etc&quot;&gt;Why did Uber beat Lyft?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This one got published in Newsweek.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-will-marketing-change-in-the-next-10-yearshttpswwwquoracomhow-is-marketing-going-to-evolve-over-the-next-ten-years-as-a-result-of-technological-innovation&quot;&gt;&lt;a href=&quot;https://www.quora.com/How-is-marketing-going-to-evolve-over-the-next-ten-years-as-a-result-of-technological-innovation&quot;&gt;How will marketing change in the next 10 years&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Speculating on the future of marketing.&lt;/p&gt;
-
-&lt;h3 id=&quot;is-the-lobster-and-indictment-of-our-tinder-driven-dating-culturehttpswwwquoracomis-the-lobster-an-indictment-of-our-tinder-driven-dating-culture&quot;&gt;&lt;a href=&quot;https://www.quora.com/Is-The-Lobster-an-indictment-of-our-Tinder-driven-dating-culture&quot;&gt;Is the Lobster and indictment of our Tinder-driven dating culture?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I do pop culture too.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-can-we-improve-hiring-diversityhttpswwwquoracomwhat-are-specific-things-employers-can-do-today-to-build-more-diverse-technical-teams&quot;&gt;&lt;a href=&quot;https://www.quora.com/What-are-specific-things-employers-can-do-today-to-build-more-diverse-technical-teams&quot;&gt;How can we improve hiring diversity?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I’ve spent a lot of time thinking about this at Shortlist.&lt;/p&gt;
-
-&lt;h2 id=&quot;mediumhttpswwwmediumcomborker&quot;&gt;&lt;a href=&quot;https:/www.medium.com/@borker&quot;&gt;Medium&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;On Medium, I take a more speculative or reflective approach. Don’t expect miracles.&lt;/p&gt;
-
-&lt;h3 id=&quot;youre-better-off-dead-than-on-facebookhttpsmediumcomborkeryoure-better-off-dead-than-on-facebook-linkedin-or-twitter-d466806544d5&quot;&gt;&lt;a href=&quot;https://medium.com/@borker/youre-better-off-dead-than-on-facebook-linkedin-or-twitter-d466806544d5&quot;&gt;You’re better off dead than on Facebook&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I spend a lot of time thinking about how we spend our attention, and whether it’s intentional or not. Social media takes a huge share of our most precious resource.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-to-prepare-for-your-first-investor-meetinghttpsmediumcomlisten-to-my-storychecklist-how-to-prep-for-your-first-investor-meeting-c119c0fc74eb&quot;&gt;&lt;a href=&quot;https://medium.com/listen-to-my-story/checklist-how-to-prep-for-your-first-investor-meeting-c119c0fc74eb&quot;&gt;How to prepare for your first investor meeting&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Featured in Mattermark Daily.&lt;/p&gt;
-
-&lt;h3 id=&quot;is-the-weak-tie-deadhttpsmediumcomjoinshortliststrong-ties-are-more-important-than-ever-bb2136d4dd1f&quot;&gt;&lt;a href=&quot;https://medium.com/@JoinShortlist/strong-ties-are-more-important-than-ever-bb2136d4dd1f&quot;&gt;Is the weak tie dead?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I think weak ties are overemphasized. We need to begin to reform strong ties.&lt;/p&gt;
-
-&lt;h3 id=&quot;can-anyone-stop-linkedinhttpsmediumcomjoinshortlistcan-anyone-stop-linkedin-hints-from-the-users-911cd653ec23&quot;&gt;&lt;a href=&quot;https://medium.com/@JoinShortlist/can-anyone-stop-linkedin-hints-from-the-users-911cd653ec23&quot;&gt;Can anyone stop LinkedIn?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Written from Shortlist’s perspective, before the acquisition. I still believe this.&lt;/p&gt;</content><category term="writing" /><category term="quora" /><category term="medium" /><category term="updates" /><category term="jekyll" /><summary>Read more about my writing.</summary></entry><entry><title>Design isn’t better, it’s just cheaper</title><link href="http://borker.co/design-cheap/" rel="alternate" type="text/html" title="Design isn't better, it's just cheaper" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://borker.co/design-cheap</id><content type="html" xml:base="http://borker.co/design-cheap/">&lt;figure&gt;
-	&lt;img src=&quot;http://borker.co/assets/img/design-cheap.jpeg&quot; /&gt;
-	&lt;figcaption&gt;Brought to you by cheap computing power and Adobe (tm)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I had a passing thought this morning: design has made it. We see an upsurge of visibly passionate digital designers, and an abundance designs that are, ostensibly, very good. Everyone’s stuff looks better, from furniture to webpages. Look at that crap they did in the 80s and 90s (and even early 2000s) with their software and their industrial lighting: how did they live with themselves?&lt;/p&gt;
-
-&lt;p&gt;It didn’t take me long to realize that I was, once again, fooled by my own perception.&lt;/p&gt;
-
-&lt;p&gt;We tend to pat ourselves on the back and think that we’ve had a ‘renaissance’ in design, that design is no longer considered an extra but vital to success.&lt;/p&gt;
-
-&lt;p&gt;“We, the powerful and vocal design community, brought this about!” we exclaim with glee. We believe we have vindicated the value of design.&lt;/p&gt;
-
-&lt;p&gt;If only it were true.&lt;/p&gt;
-
-&lt;h2 id=&quot;design-is-cheap&quot;&gt;Design is Cheap&lt;/h2&gt;
-
-&lt;p&gt;My hypothesis ended up with realizing that design is now cheap. We’ve enabled a myriad of development, design and fabrication frameworks that allow us to create, develop, and implement fantastic designs at a fraction of the cost.&lt;/p&gt;
-
-&lt;p&gt;It’s a great disservice to any of the older designers to say that the ‘new’ generation is somehow better. I suspect industrial designers didn’t design those soulless corporate cafeterias because they wanted to destroy people’s lives. I suspect it was because other options were prohibitively expensive. Back then, 33 extra megahertz could soothe away any aesthetic issues with your PC; $5,000 office lights could make Philippe Starck the richest man on earth.&lt;/p&gt;
-
-&lt;p&gt;Corporate profit is higher than it ever has been before. Design is cheaper than it ever has been before. Occam’s razor, the simplest explanation is often correct.&lt;/p&gt;
-
-&lt;p&gt;As a result, everyone can now afford to look good, sit in good furniture, and have well designed apps.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Because of this economic affordability, design affordances can change for the better.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;so-what-now&quot;&gt;So what now?&lt;/h2&gt;
-
-&lt;p&gt;We can understand now why digital design is more important than ever. Apple nailed that into the collective consciousness. Due to them and due to the tireless effort from designers everywhere, we now live in a fantastic golden age of design.
-It’s our privilege to enjoy it, exploit it, and hopefully not screw it up.&lt;/p&gt;
-
-&lt;p&gt;However, let’s at least agree that it’s (mostly) not our fault.&lt;/p&gt;</content><category term="design" /><summary>Still important, though</summary></entry><entry><title>Big Complaints of LinkedIn Users</title><link href="http://borker.co/linked-in/" rel="alternate" type="text/html" title="Big Complaints of LinkedIn Users" /><published>2016-02-01T00:00:00-07:00</published><updated>2016-02-01T00:00:00-07:00</updated><id>http://borker.co/linked-in</id><content type="html" xml:base="http://borker.co/linked-in/">&lt;figure&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.adweek.com/news/technology/snapchat-launches-colossal-expansion-its-advertising-ushering-new-era-app-171924&quot;&gt;5 Snapchat Launches a Colossal Expansion of Its Advertising, Ushering in a New Era for the App&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Still important, though</summary></entry><entry><title type="html">If you’re mean to people, do you end up bankrupt after a lawsuit with Hulk Hogan?</title><link href="http://localhost:4000/thought-1/" rel="alternate" type="text/html" title="If you're mean to people, do you end up bankrupt after a lawsuit with Hulk Hogan?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/thought-1</id><content type="html" xml:base="http://localhost:4000/thought-1/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><author><name></name></author><category term="thought" /><summary type="html">food for thought</summary></entry><entry><title type="html">No product plan survives contact with the user</title><link href="http://localhost:4000/thought-2/" rel="alternate" type="text/html" title="No product plan survives contact with the user" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/thought-2</id><content type="html" xml:base="http://localhost:4000/thought-2/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><author><name></name></author><category term="thought" /><summary type="html">food for thought</summary></entry><entry><title type="html">Ever consider how most news articles now have tons of links, and you have no idea which are important or not?</title><link href="http://localhost:4000/thought-3/" rel="alternate" type="text/html" title="Ever consider how most news articles now have tons of links, and you have no idea which are important or not?" /><published>2016-08-23T00:00:00-07:00</published><updated>2016-08-23T00:00:00-07:00</updated><id>http://localhost:4000/thought-3</id><content type="html" xml:base="http://localhost:4000/thought-3/">&lt;p&gt;You need something here, but you already got what you were looking for… I hope.&lt;/p&gt;</content><author><name></name></author><category term="thought" /><summary type="html">food for thought</summary></entry><entry><title type="html">Big Complaints of LinkedIn Users</title><link href="http://localhost:4000/linked-in/" rel="alternate" type="text/html" title="Big Complaints of LinkedIn Users" /><published>2016-02-01T00:00:00-08:00</published><updated>2016-02-01T00:00:00-08:00</updated><id>http://localhost:4000/linked-in</id><content type="html" xml:base="http://localhost:4000/linked-in/">&lt;figure&gt;
 	&lt;img src=&quot;http://borker.co/assets/img/linked-in.png&quot; /&gt;
 	&lt;figcaption&gt;Please add me?&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -363,4 +359,12 @@ It’s our privilege to enjoy it, exploit it, and hopefully not screw it up.&lt;
 
 &lt;p&gt;Ryan
 Founder and Head of Product, Shortlist
-February 2016&lt;/p&gt;</content><category term="design" /><summary>Still important, though</summary></entry></feed>
+February 2016&lt;/p&gt;</content><author><name></name></author><category term="design" /><summary type="html">Still important, though</summary></entry><entry><title type="html">Hisabo</title><link href="http://localhost:4000/project-hisabo/" rel="alternate" type="text/html" title="Hisabo" /><published>2015-07-23T00:00:00-07:00</published><updated>2015-07-23T00:00:00-07:00</updated><id>http://localhost:4000/project-hisabo</id><content type="html" xml:base="http://localhost:4000/project-hisabo/">&lt;h2 id=&quot;hisabo&quot;&gt;Hisabo&lt;/h2&gt;
+
+&lt;p&gt;I founded and ran &lt;a href=&quot;http://www.hisabo.com&quot;&gt;Hisabo Tea Company&lt;/a&gt; for a few months as a side project.&lt;/p&gt;
+
+&lt;p&gt;Through Hisabo, we sold hard to find or unique teas to a list of email subscribers (similar to Garagiste for wines).&lt;/p&gt;
+
+&lt;p&gt;We sourced each tea through a network of connections in Japan, Taiwan, China and Nepal.&lt;/p&gt;
+
+&lt;p&gt;I stopped working on Hisabo to focus exclusively on Shortlist.&lt;/p&gt;</content><author><name></name></author><category term="Hisabo" /><summary type="html">A note about my involvement with Hisabo</summary></entry></feed>
